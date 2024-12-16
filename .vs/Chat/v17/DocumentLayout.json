@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JJONG\\Desktop\\ChatSC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4962FCCB-207C-4CB0-BD3E-F4142122B64D}|Client\\Client.csproj|c:\\users\\jjong\\desktop\\chatsc\\client\\chatclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4962FCCB-207C-4CB0-BD3E-F4142122B64D}|Client\\Client.csproj|solutionrelative:client\\chatclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A5B58-A56C-47EF-9433-499F738B7DB3}|Server\\Server.csproj|c:\\users\\jjong\\desktop\\chatsc\\server\\chatserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51A5B58-A56C-47EF-9433-499F738B7DB3}|Server\\Server.csproj|solutionrelative:server\\chatserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A5B58-A56C-47EF-9433-499F738B7DB3}|Server\\Server.csproj|c:\\users\\jjong\\desktop\\chatsc\\server\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51A5B58-A56C-47EF-9433-499F738B7DB3}|Server\\Server.csproj|solutionrelative:server\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4962FCCB-207C-4CB0-BD3E-F4142122B64D}|Client\\Client.csproj|c:\\users\\jjong\\desktop\\chatsc\\client\\formclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4962FCCB-207C-4CB0-BD3E-F4142122B64D}|Client\\Client.csproj|solutionrelative:client\\formclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4962FCCB-207C-4CB0-BD3E-F4142122B64D}|Client\\Client.csproj|C:\\Users\\JJONG\\Desktop\\ChatSC\\client\\formclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4962FCCB-207C-4CB0-BD3E-F4142122B64D}|Client\\Client.csproj|solutionrelative:client\\formclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6819B9B-22EF-4440-8FD6-92C154EC9523}|Common\\Common.csproj|c:\\users\\jjong\\desktop\\chatsc\\common\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6819B9B-22EF-4440-8FD6-92C154EC9523}|Common\\Common.csproj|solutionrelative:common\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6819B9B-22EF-4440-8FD6-92C154EC9523}|Common\\Common.csproj|c:\\users\\jjong\\desktop\\chatsc\\common\\messageresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6819B9B-22EF-4440-8FD6-92C154EC9523}|Common\\Common.csproj|solutionrelative:common\\messageresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6819B9B-22EF-4440-8FD6-92C154EC9523}|Common\\Common.csproj|c:\\users\\jjong\\desktop\\chatsc\\common\\common.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D6819B9B-22EF-4440-8FD6-92C154EC9523}|Common\\Common.csproj|solutionrelative:common\\common.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A5B58-A56C-47EF-9433-499F738B7DB3}|Server\\Server.csproj|c:\\users\\jjong\\desktop\\chatsc\\server\\formserver.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51A5B58-A56C-47EF-9433-499F738B7DB3}|Server\\Server.csproj|solutionrelative:server\\formserver.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4962FCCB-207C-4CB0-BD3E-F4142122B64D}|Client\\Client.csproj|c:\\users\\jjong\\desktop\\chatsc\\client\\client.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4962FCCB-207C-4CB0-BD3E-F4142122B64D}|Client\\Client.csproj|solutionrelative:client\\client.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6819B9B-22EF-4440-8FD6-92C154EC9523}|Common\\Common.csproj|c:\\users\\jjong\\desktop\\chatsc\\common\\common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D6819B9B-22EF-4440-8FD6-92C154EC9523}|Common\\Common.csproj|solutionrelative:common\\common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51A5B58-A56C-47EF-9433-499F738B7DB3}|Server\\Server.csproj|c:\\users\\jjong\\desktop\\chatsc\\server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C51A5B58-A56C-47EF-9433-499F738B7DB3}|Server\\Server.csproj|solutionrelative:server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormServer.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\JJONG\\Desktop\\ChatSC\\Server\\FormServer.Designer.cs",
+              "RelativeDocumentMoniker": "Server\\FormServer.Designer.cs",
+              "ToolTip": "C:\\Users\\JJONG\\Desktop\\ChatSC\\Server\\FormServer.Designer.cs",
+              "RelativeToolTip": "Server\\FormServer.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T06:18:57.406Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatServer.cs",
+              "DocumentMoniker": "C:\\Users\\JJONG\\Desktop\\ChatSC\\Server\\ChatServer.cs",
+              "RelativeDocumentMoniker": "Server\\ChatServer.cs",
+              "ToolTip": "C:\\Users\\JJONG\\Desktop\\ChatSC\\Server\\ChatServer.cs",
+              "RelativeToolTip": "Server\\ChatServer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T04:36:05.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Client",
+              "DocumentMoniker": "C:\\Users\\JJONG\\Desktop\\ChatSC\\Client\\Client.csproj",
+              "RelativeDocumentMoniker": "Client\\Client.csproj",
+              "ToolTip": "C:\\Users\\JJONG\\Desktop\\ChatSC\\Client\\Client.csproj",
+              "RelativeToolTip": "Client\\Client.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-02T01:48:16.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Packet.cs",
+              "DocumentMoniker": "C:\\Users\\JJONG\\Desktop\\ChatSC\\Common\\Packet.cs",
+              "RelativeDocumentMoniker": "Common\\Packet.cs",
+              "ToolTip": "C:\\Users\\JJONG\\Desktop\\ChatSC\\Common\\Packet.cs",
+              "RelativeToolTip": "Common\\Packet.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAA3wDcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T01:32:29.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\JJONG\\Desktop\\ChatSC\\Server\\User.cs",
+              "RelativeDocumentMoniker": "Server\\User.cs",
+              "ToolTip": "C:\\Users\\JJONG\\Desktop\\ChatSC\\Server\\User.cs",
+              "RelativeToolTip": "Server\\User.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T06:24:59.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MessageResolver.cs",
+              "DocumentMoniker": "C:\\Users\\JJONG\\Desktop\\ChatSC\\Common\\MessageResolver.cs",
+              "RelativeDocumentMoniker": "Common\\MessageResolver.cs",
+              "ToolTip": "C:\\Users\\JJONG\\Desktop\\ChatSC\\Common\\MessageResolver.cs",
+              "RelativeToolTip": "Common\\MessageResolver.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwDUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T06:24:01.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatClient.cs",
+              "DocumentMoniker": "C:\\Users\\JJONG\\Desktop\\ChatSC\\Client\\ChatClient.cs",
+              "RelativeDocumentMoniker": "Client\\ChatClient.cs",
+              "ToolTip": "C:\\Users\\JJONG\\Desktop\\ChatSC\\Client\\ChatClient.cs",
+              "RelativeToolTip": "Client\\ChatClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T06:41:32.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Common",
+              "DocumentMoniker": "C:\\Users\\JJONG\\Desktop\\ChatSC\\Common\\Common.csproj",
+              "RelativeDocumentMoniker": "Common\\Common.csproj",
+              "ToolTip": "C:\\Users\\JJONG\\Desktop\\ChatSC\\Common\\Common.csproj",
+              "RelativeToolTip": "Common\\Common.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-02T02:27:44.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Common.csproj",
+              "DocumentMoniker": "C:\\Users\\JJONG\\Desktop\\ChatSC\\Common\\Common.csproj",
+              "RelativeDocumentMoniker": "Common\\Common.csproj",
+              "ToolTip": "C:\\Users\\JJONG\\Desktop\\ChatSC\\Common\\Common.csproj",
+              "RelativeToolTip": "Common\\Common.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-01T06:23:42.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Server.csproj",
+              "DocumentMoniker": "C:\\Users\\JJONG\\Desktop\\ChatSC\\Server\\Server.csproj",
+              "RelativeDocumentMoniker": "Server\\Server.csproj",
+              "ToolTip": "C:\\Users\\JJONG\\Desktop\\ChatSC\\Server\\Server.csproj",
+              "RelativeToolTip": "Server\\Server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-01T06:19:11.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormClient.cs",
+              "DocumentMoniker": "C:\\Users\\JJONG\\Desktop\\ChatSC\\Client\\FormClient.cs",
+              "RelativeDocumentMoniker": "Client\\FormClient.cs",
+              "ToolTip": "C:\\Users\\JJONG\\Desktop\\ChatSC\\Client\\FormClient.cs",
+              "RelativeToolTip": "Client\\FormClient.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwDAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T06:45:29.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormClient.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\JJONG\\Desktop\\ChatSC\\Client\\FormClient.cs",
+              "RelativeDocumentMoniker": "Client\\FormClient.cs",
+              "ToolTip": "C:\\Users\\JJONG\\Desktop\\ChatSC\\Client\\FormClient.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Client\\FormClient.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T04:41:49.019Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 187,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3822e751-eb69-4b0e-b301-595a9e4c74d5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
